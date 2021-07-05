@@ -1,7 +1,0 @@
-mongoDB Atlas-
-ivanova.ola@gmail.com
-Olga1983!
------users
-1. admin-olga/Novokuznetsk1983
-
-mongo "mongodb+srv://cluster0.og3yg.mongodb.net/myFirstDatabase" --username admin-olga
