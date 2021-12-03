@@ -6,7 +6,7 @@ const date = require(__dirname + "/date.js");
 
 const app = express();
 const linkToLocalServer = "mongodb://localhost:27017/todoDB";
-const link = "mongodb+srv://admin-olga:Novokuznetsk1983@cluster0.og3yg.mongodb.net/todoDB";
+const link = "mongodb+srv://admin-olga:@cluster0.og3yg.mongodb.net/todoDB";
 mongoose.connect(link, {useNewUrlParser: true});
 
 const itemsSchema = new mongoose.Schema({
